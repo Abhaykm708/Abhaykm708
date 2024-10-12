@@ -1,11 +1,11 @@
 ## Hi there 👋
-I am Abhay Kumar
+I am Abhay Maddheshiya.
 <br>
 I am B.tech 3<sup>rd</sup> year Student.
 <!--
 **Abhaykm708/Abhaykm708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
